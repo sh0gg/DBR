@@ -1,1 +1,1 @@
-Contido 6 en rama2
+Contido 6 en master
