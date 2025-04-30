@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 //CONTENIDO DE SH0GG *NO BORRAR*//
+=======
+//CONTENIDO DEL USER2 *NO BORRAR*//
+>>>>>>> d8b5f6c6d4d943a2dc5cb17349da804ffce76c4c
